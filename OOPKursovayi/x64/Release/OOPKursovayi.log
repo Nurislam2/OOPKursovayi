@@ -1,0 +1,76 @@
+﻿  OOPKursovayi.cpp
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassFinishProduct.h(188,32): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassFinishProduct.h(189,30): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassFinishProduct.h(168,7): warning C4101: id_prod: неиспользованная локальная переменная
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassRawMaterial.h(201,32): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassRawMaterial.h(202,30): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassRawMaterial.h(181,7): warning C4101: id_prod: неиспользованная локальная переменная
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassEmployee.h(258,11): warning C4129: S: неизвестная escape-последовательность
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassEmployee.h(244,7): warning C4101: id_prod: неиспользованная локальная переменная
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassBudget.h(51,26): warning C4244: =: преобразование "long double" в "int", возможна потеря данных
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassBudget.h(52,30): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassBudget.h(53,31): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassBudget.h(54,29): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassBudget.h(36,7): warning C4101: id_prod: неиспользованная локальная переменная
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassIngredient.h(38,19): warning C4244: инициализация: преобразование "long double" в "float", возможна потеря данных
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassIngredient.h(98,25): warning C4244: аргумент: преобразование "float" в "int32_t", возможна потеря данных
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassIngredient.h(182,19): warning C4244: инициализация: преобразование "long double" в "float", возможна потеря данных
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassIngredient.h(165,7): warning C4101: id_prod: неиспользованная локальная переменная
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassProduction.h(31,11): warning C4129: Q: неизвестная escape-последовательность
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassProduction.h(37,32): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassProduction.h(17,11): warning C4101: salary: неиспользованная локальная переменная
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassProduction.h(17,7): warning C4101: id: неиспользованная локальная переменная
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassProduction.h(18,19): warning C4101: amount: неиспользованная локальная переменная
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassProduction.h(16,7): warning C4101: id_prod: неиспользованная локальная переменная
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassPurchase.h(31,11): warning C4129: R: неизвестная escape-последовательность
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassPurchase.h(31,11): warning C4129: Q: неизвестная escape-последовательность
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassPurchase.h(37,32): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassPurchase.h(38,30): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassPurchase.h(17,11): warning C4101: salary: неиспользованная локальная переменная
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassPurchase.h(17,7): warning C4101: id: неиспользованная локальная переменная
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassPurchase.h(16,7): warning C4101: id_prod: неиспользованная локальная переменная
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassSale.h(31,11): warning C4129: Q: неизвестная escape-последовательность
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassSale.h(31,11): warning C4129: A: неизвестная escape-последовательность
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassSale.h(37,32): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassSale.h(38,30): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassSale.h(17,11): warning C4101: salary: неиспользованная локальная переменная
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassSale.h(17,7): warning C4101: id: неиспользованная локальная переменная
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassSale.h(16,7): warning C4101: id_prod: неиспользованная локальная переменная
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\ClassSale.h(101,27): warning C4244: =: преобразование "long double" в "float", возможна потеря данных
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\OOPKursovayi.cpp(26,8): warning C4101: quantity: неиспользованная локальная переменная
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\OOPKursovayi.cpp(26,17): warning C4101: amount: неиспользованная локальная переменная
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\OOPKursovayi.cpp(245,8): warning C4101: quantity: неиспользованная локальная переменная
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\OOPKursovayi.cpp(245,18): warning C4101: amount: неиспользованная локальная переменная
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\OOPKursovayi.cpp(382,18): warning C4101: amount: неиспользованная локальная переменная
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\OOPKursovayi.cpp(508,13): warning C4101: id_RM: неиспользованная локальная переменная
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\OOPKursovayi.cpp(507,8): warning C4101: quantity: неиспользованная локальная переменная
+C:\Users\USER\source\repos\OOPKursovayi\OOPKursovayi\OOPKursovayi.cpp(597,11): warning C4129: B: неизвестная escape-последовательность
+     Создается библиотека C:\Users\USER\source\repos\OOPKursovayi\x64\Release\OOPKursovayi.lib и объект C:\Users\USER\source\repos\OOPKursovayi\x64\Release\OOPKursovayi.exp
+  Создание кода
+  1 of 529 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+mysqlcppconn-static.lib(mysql_native_resultset_wrapper.obj) : warning LNK4099: "jdbc.pdb" PDB не найден с "mysqlcppconn-static.lib(mysql_native_resultset_wrapper.obj)" или на "C:\Users\USER\source\repos\OOPKursovayi\x64\Release\jdbc.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+mysqlcppconn-static.lib(mysql_native_statement_wrapper.obj) : warning LNK4099: "jdbc.pdb" PDB не найден с "mysqlcppconn-static.lib(mysql_native_statement_wrapper.obj)" или на "C:\Users\USER\source\repos\OOPKursovayi\x64\Release\jdbc.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+mysqlcppconn-static.lib(mysql_native_connection_wrapper.obj) : warning LNK4099: "jdbc.pdb" PDB не найден с "mysqlcppconn-static.lib(mysql_native_connection_wrapper.obj)" или на "C:\Users\USER\source\repos\OOPKursovayi\x64\Release\jdbc.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+mysqlcppconn-static.lib(mysql_native_driver_wrapper.obj) : warning LNK4099: "jdbc.pdb" PDB не найден с "mysqlcppconn-static.lib(mysql_native_driver_wrapper.obj)" или на "C:\Users\USER\source\repos\OOPKursovayi\x64\Release\jdbc.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+mysqlcppconn-static.lib(mysql_client_api.obj) : warning LNK4099: "jdbc.pdb" PDB не найден с "mysqlcppconn-static.lib(mysql_client_api.obj)" или на "C:\Users\USER\source\repos\OOPKursovayi\x64\Release\jdbc.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+mysqlcppconn-static.lib(mysql_uri.obj) : warning LNK4099: "jdbc.pdb" PDB не найден с "mysqlcppconn-static.lib(mysql_uri.obj)" или на "C:\Users\USER\source\repos\OOPKursovayi\x64\Release\jdbc.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+mysqlcppconn-static.lib(mysql_warning.obj) : warning LNK4099: "jdbc.pdb" PDB не найден с "mysqlcppconn-static.lib(mysql_warning.obj)" или на "C:\Users\USER\source\repos\OOPKursovayi\x64\Release\jdbc.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+mysqlcppconn-static.lib(mysql_util.obj) : warning LNK4099: "jdbc.pdb" PDB не найден с "mysqlcppconn-static.lib(mysql_util.obj)" или на "C:\Users\USER\source\repos\OOPKursovayi\x64\Release\jdbc.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+mysqlcppconn-static.lib(mysql_statement.obj) : warning LNK4099: "jdbc.pdb" PDB не найден с "mysqlcppconn-static.lib(mysql_statement.obj)" или на "C:\Users\USER\source\repos\OOPKursovayi\x64\Release\jdbc.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+mysqlcppconn-static.lib(mysql_resultset_metadata.obj) : warning LNK4099: "jdbc.pdb" PDB не найден с "mysqlcppconn-static.lib(mysql_resultset_metadata.obj)" или на "C:\Users\USER\source\repos\OOPKursovayi\x64\Release\jdbc.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+mysqlcppconn-static.lib(mysql_resultset.obj) : warning LNK4099: "jdbc.pdb" PDB не найден с "mysqlcppconn-static.lib(mysql_resultset.obj)" или на "C:\Users\USER\source\repos\OOPKursovayi\x64\Release\jdbc.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+mysqlcppconn-static.lib(mysql_resultbind.obj) : warning LNK4099: "jdbc.pdb" PDB не найден с "mysqlcppconn-static.lib(mysql_resultbind.obj)" или на "C:\Users\USER\source\repos\OOPKursovayi\x64\Release\jdbc.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+mysqlcppconn-static.lib(mysql_ps_resultset_metadata.obj) : warning LNK4099: "jdbc.pdb" PDB не найден с "mysqlcppconn-static.lib(mysql_ps_resultset_metadata.obj)" или на "C:\Users\USER\source\repos\OOPKursovayi\x64\Release\jdbc.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+mysqlcppconn-static.lib(mysql_ps_resultset.obj) : warning LNK4099: "jdbc.pdb" PDB не найден с "mysqlcppconn-static.lib(mysql_ps_resultset.obj)" или на "C:\Users\USER\source\repos\OOPKursovayi\x64\Release\jdbc.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+mysqlcppconn-static.lib(mysql_prepared_statement.obj) : warning LNK4099: "jdbc.pdb" PDB не найден с "mysqlcppconn-static.lib(mysql_prepared_statement.obj)" или на "C:\Users\USER\source\repos\OOPKursovayi\x64\Release\jdbc.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+mysqlcppconn-static.lib(mysql_parameter_metadata.obj) : warning LNK4099: "jdbc.pdb" PDB не найден с "mysqlcppconn-static.lib(mysql_parameter_metadata.obj)" или на "C:\Users\USER\source\repos\OOPKursovayi\x64\Release\jdbc.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+mysqlcppconn-static.lib(mysql_metadata.obj) : warning LNK4099: "jdbc.pdb" PDB не найден с "mysqlcppconn-static.lib(mysql_metadata.obj)" или на "C:\Users\USER\source\repos\OOPKursovayi\x64\Release\jdbc.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+mysqlcppconn-static.lib(mysql_driver.obj) : warning LNK4099: "jdbc.pdb" PDB не найден с "mysqlcppconn-static.lib(mysql_driver.obj)" или на "C:\Users\USER\source\repos\OOPKursovayi\x64\Release\jdbc.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+mysqlcppconn-static.lib(mysql_debug.obj) : warning LNK4099: "jdbc.pdb" PDB не найден с "mysqlcppconn-static.lib(mysql_debug.obj)" или на "C:\Users\USER\source\repos\OOPKursovayi\x64\Release\jdbc.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+mysqlcppconn-static.lib(mysql_connection.obj) : warning LNK4099: "jdbc.pdb" PDB не найден с "mysqlcppconn-static.lib(mysql_connection.obj)" или на "C:\Users\USER\source\repos\OOPKursovayi\x64\Release\jdbc.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+mysqlcppconn-static.lib(mysql_art_rset_metadata.obj) : warning LNK4099: "jdbc.pdb" PDB не найден с "mysqlcppconn-static.lib(mysql_art_rset_metadata.obj)" или на "C:\Users\USER\source\repos\OOPKursovayi\x64\Release\jdbc.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+mysqlcppconn-static.lib(mysql_art_resultset.obj) : warning LNK4099: "" PDB не найден с "mysqlcppconn-static.lib(mysql_art_resultset.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+  OOPKursovayi.vcxproj -> C:\Users\USER\source\repos\OOPKursovayi\x64\Release\OOPKursovayi.exe
